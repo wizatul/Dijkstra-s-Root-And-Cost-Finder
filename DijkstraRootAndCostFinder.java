@@ -12,7 +12,7 @@ import java.util.Scanner;
 //take toller array--> to Insert toll between roots
  * @author Atul Kumar Dey
  */
-public class JavaApplication26 {
+public class DijkstraRootAndCostFinder {
 
     public static void main(String[] args) {
         //1st input--> no. of node # no. of edge
